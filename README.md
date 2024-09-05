@@ -2,7 +2,7 @@
 # Donate: If you like my work, you can donate to me via [Steam Trade Offer](https://bit.ly/3qDpgPd)
 
 ## Description:
-
+You are trapped in the Cabin. You can't go outside cause there is toxic gas outside the cabin which will give you damage. Besides the toxic gas, Zombies are also out there. You and your teammates have to stick together and have to fight those zombies who are coming to kill you. After each zombie wave, you can also buy new weapons from the cabin. As the zombie wave increases the difficulty will also increase. You would have to face more powerful zombies with more health, speed, gravity, or jump. You and your teammates have to work together to survive longer. If you get separated, then you will be an easy target for the zombies.
 
 ## Installation:
 **1.** First download this map to your server: [Zombie Cabin Defence Map](https://steamcommunity.com/sharedfiles/filedetails/?id=3171695956) 
