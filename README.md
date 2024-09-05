@@ -18,6 +18,9 @@ https://www.youtube.com/watch?v=Md4ekj4FGWU
 
 **4.** Now it's time to add some important ConVars to your **sever.cfg** file
 ```
+//-------------------------------
+// Need For Zombie Cabin Defense
+//-------------------------------
 mp_autoteambalance 0
 mp_limitteams 0
 mp_forcecamera 1 // Set this to 0 to allow players to spectate any team. Set this to 1 to allow players to only spectate their own teammp_ignore_round_win_conditions 1
