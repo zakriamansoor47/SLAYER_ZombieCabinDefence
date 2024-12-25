@@ -1,5 +1,6 @@
 # Accepting Paid Request! Discord: Slayer47#7002
-# Donate: If you like my work, you can donate to me via [Steam Trade Offer](https://bit.ly/3qDpgPd)
+# Donation
+<a href="https://www.buymeacoffee.com/slayer47" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 ## Description:
 You are trapped in the Cabin. You can't go outside cause there is toxic gas outside the cabin which will give you damage. Besides the toxic gas, Zombies are also out there. You and your teammates have to stick together and have to fight those zombies who are coming to kill you. After each zombie wave, you can also buy new weapons from the cabin. As the zombie wave increases the difficulty will also increase. You would have to face more powerful zombies with more health, speed, gravity, or jump. You and your teammates have to work together to survive longer. If you get separated, then you will be an easy target for the zombies.
